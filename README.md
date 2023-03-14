@@ -28,6 +28,6 @@ Trace ``run_multitask.py`` and ``models.py`` to get more information.
 
 
 ## 3. Testing code
-Trace ``test_only.py`` to get more information.
-
+Trace ``test_only.py`` to get more information.  
+We also provide our best model in the paper, please see ``BEST_MODEL``.  
 We can provide some of our feature for testing only, please mail me to get more information.
